@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on Laravel Angular Vue and Flutter
 - 👯 Currently exploring open source projects
 - 📫 How to reach me: darshithedpara@gmail.com
-- ⚡ Fun fact: I love to teach and mentor
+- ⚡ Fun fact: Curious about the Universe and Extraterrestrial life
 
 ## Connect with me
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
