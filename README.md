@@ -58,10 +58,7 @@
 
 <br />
 
-![Darshit Hedpara's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshithedpara&count_private=true&show_icons=true&theme=dark)
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshithedpara&theme=light&layout=compact)
+![Leetcode Stats](https://leetcard.jacoblin.cool/darshithedpara?ext=heatmap)
 
 
 [linkedin]: https://in.linkedin.com/in/darshithedpara
