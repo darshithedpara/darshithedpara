@@ -1,7 +1,7 @@
 ## Hi there, I'm Darshit Hedpara 👋
 
-- 🔭 I’m Full stack developer and Trainer
-- 🌱 I’m currently working on Laravel Angular Vue and Flutter
+- 🔭 I’m Full stack developer
+- 🌱 I’m currently working on Nodejs, Typescript, Terraform, AWS
 - 👯 Currently exploring open source projects
 - 📫 How to reach me: darshithedpara@gmail.com
 - ⚡ Fun fact: Curious about the Universe and Extraterrestrial life
